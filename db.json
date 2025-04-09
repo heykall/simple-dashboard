@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic White T-Shirt",
+      "category": "Shirt",
+      "size": "M",
+      "color": "#FFFFFF",
+      "quantity": 50,
+      "price": 29.99,
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "2",
+      "name": "Black Denim Jeans",
+      "category": "Pants",
+      "size": "L",
+      "color": "#000000",
+      "quantity": 30,
+      "price": 79.99,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "3",
+      "name": "Red Baseball Cap",
+      "category": "Hat",
+      "size": "One Size",
+      "color": "#FF0000",
+      "quantity": 25,
+      "price": 24.99,
+      "imageUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "4",
+      "name": "Running Shoes",
+      "category": "Shoes",
+      "size": "42",
+      "color": "#0000FF",
+      "quantity": 15,
+      "price": 129.99,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "5",
+      "name": "Casual Hoodie",
+      "category": "Hoodie",
+      "size": "L",
+      "color": "#808080",
+      "quantity": 40,
+      "price": 49.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "6",
+      "name": "Leather Jacket",
+      "category": "Jacket",
+      "size": "M",
+      "color": "#333333",
+      "quantity": 20,
+      "price": 199.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "7",
+      "name": "Summer Dress",
+      "category": "Dress",
+      "size": "S",
+      "color": "#FFC0CB",
+      "quantity": 35,
+      "price": 59.99,
+      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "8",
+      "name": "Sport Shorts",
+      "category": "Shorts",
+      "size": "M",
+      "color": "#FFD700",
+      "quantity": 45,
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "9",
+      "name": "Casual Sneakers",
+      "category": "Shoes",
+      "size": "41",
+      "color": "#A0522D",
+      "quantity": 28,
+      "price": 89.99,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "10",
+      "name": "Slim Fit Chinos",
+      "category": "Pants",
+      "size": "M",
+      "color": "#8B4513",
+      "quantity": 32,
+      "price": 69.99,
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "11",
+      "name": "Printed Polo Shirt",
+      "category": "Shirt",
+      "size": "L",
+      "color": "#4682B4",
+      "quantity": 38,
+      "price": 34.99,
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "12",
+      "name": "Wool Scarf",
+      "category": "Accessory",
+      "size": "One Size",
+      "color": "#800000",
+      "quantity": 50,
+      "price": 19.99,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "13",
+      "name": "Casual Cap",
+      "category": "Hat",
+      "size": "One Size",
+      "color": "#00008B",
+      "quantity": 33,
+      "price": 21.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "14",
+      "name": "Denim Jacket",
+      "category": "Jacket",
+      "size": "L",
+      "color": "#1E90FF",
+      "quantity": 22,
+      "price": 109.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "15",
+      "name": "Floral Skirt",
+      "category": "Skirt",
+      "size": "S",
+      "color": "#FF69B4",
+      "quantity": 27,
+      "price": 44.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "16",
+      "name": "Leather Belt",
+      "category": "Accessory",
+      "size": "One Size",
+      "color": "#654321",
+      "quantity": 60,
+      "price": 15.99,
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "17",
+      "name": "Casual Shorts",
+      "category": "Shorts",
+      "size": "M",
+      "color": "#FF6347",
+      "quantity": 40,
+      "price": 29.99,
+       "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "18",
+      "name": "Sport Watch",
+      "category": "Accessory",
+      "size": "One Size",
+      "color": "#000000",
+      "quantity": 20,
+      "price": 149.99,
+      "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "19",
+      "name": "Running Cap",
+      "category": "Hat",
+      "size": "One Size",
+      "color": "#228B22",
+      "quantity": 30,
+      "price": 18.99,
+      "imageUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "20",
+      "name": "Tech Backpack",
+      "category": "Bag",
+      "size": "One Size",
+      "color": "#2F4F4F",
+      "quantity": 25,
+      "price": 89.99,
+      "imageUrl": "https://images.unsplash.com/photo-1571501679680-de32f1e7aad4?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "21",
+      "name": "Summer Sandals",
+      "category": "Shoes",
+      "size": "39",
+      "color": "#FFD700",
+      "quantity": 35,
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1571501679680-de32f1e7aad4?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "22",
+      "name": "Formal Suit",
+      "category": "Suit",
+      "size": "L",
+      "color": "#2C2C2C",
+      "quantity": 10,
+      "price": 299.99,
+      "imageUrl": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "23",
+      "name": "Casual Sneakers Pro",
+      "category": "Shoes",
+      "size": "42",
+      "color": "#696969",
+      "quantity": 20,
+      "price": 99.99,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "24",
+      "name": "Vintage Sunglasses",
+      "category": "Accessory",
+      "size": "One Size",
+      "color": "#000000",
+      "quantity": 50,
+      "price": 19.99,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "25",
+      "name": "Elegant Watch",
+      "category": "Accessory",
+      "size": "One Size",
+      "color": "#DAA520",
+      "quantity": 15,
+      "price": 129.99,
+      "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "26",
+      "name": "Casual Blazer",
+      "category": "Jacket",
+      "size": "M",
+      "color": "#808080",
+      "quantity": 18,
+      "price": 139.99,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "27",
+      "name": "Stretchy Leggings",
+      "category": "Pants",
+      "size": "S",
+      "color": "#FF69B4",
+      "quantity": 42,
+      "price": 34.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "28",
+      "name": "Printed Sweatshirt",
+      "category": "Sweatshirt",
+      "size": "L",
+      "color": "#708090",
+      "quantity": 30,
+      "price": 59.99,
+      "imageUrl": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "29",
+      "name": "Vintage Leather Boots",
+      "category": "Shoes",
+      "size": "43",
+      "color": "#8B4513",
+      "quantity": 12,
+      "price": 149.99,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "30",
+      "name": "Elegant Evening Gown",
+      "category": "Dress",
+      "size": "M",
+      "color": "#800080",
+      "quantity": 8,
+      "price": 249.99,
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800&auto=format&fit=crop&q=60"
+    }
+  ]
+}
